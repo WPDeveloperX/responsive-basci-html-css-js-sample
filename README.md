@@ -1,2 +1,2 @@
-# responsive-basci-html-css-js-sample
+# responsive-basic-html-css-js-sample
 Responsive Basic HTML CSS  layout 
